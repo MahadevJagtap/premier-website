@@ -718,7 +718,7 @@ justify-content: center;
     font-family: gilroy;
     position: absolute;
    top: 10%;
-   left: 15.7%;
+   left: 16%;
 }
 .mahadev h1::before{
     content: "model management";
