@@ -1,1 +1,1 @@
- https://mahadevjagtap.github.io/premier-/
+ https://mahadevjagtap.github.io/premier-website/
